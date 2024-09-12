@@ -21,7 +21,7 @@
   </a>
 </div>
 
-##
+## Main skills:
 
 <div style="display: inline_block; gap: 30px" align="center">
   </br>
@@ -35,4 +35,6 @@
   </br>
 </div>
 
-##
+## Vamos conectar!
+
+Caso tenha interesse em compartilhar experiências ou colaborar em um projeto, fique à vontade para me contatar!
